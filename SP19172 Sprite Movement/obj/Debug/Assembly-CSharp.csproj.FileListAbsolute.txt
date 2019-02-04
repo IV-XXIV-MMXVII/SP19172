@@ -1,0 +1,2 @@
+C:\Users\iamth\Documents\SP19172 Sprite Movement\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\iamth\Documents\SP19172 Sprite Movement\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
